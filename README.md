@@ -15,11 +15,15 @@ Los frameworks CRUD facilitan el acceso al sistema de bases de datos y son utili
 ## Ventajas de CRUD
 
 **Estandarización:** las operaciones CRUD interactúan con las aplicaciones de almacenamiento de datos en un solo espacio. De esta manera, la tarea de los desarrolladores se reduce significativamente.
+
 **Experiencia de usuario mejorada:** los usuarios pueden crear, actualizar, leer y borrar datos de una aplicación sin problemas, lo que hace que la experiencia de usuario sea mucho más fácil de entender y satisfactoria.
+
 **Facilidad de mantenimiento:** dado que la gestión de datos tiene protocolos bien establecidos, los sistemas CRUD no requieren un mantenimiento tan complicado. Es mucho más sencillo resolver problemas y actualizar la aplicación con esto.
 La flexibilidad significa que los desarrolladores pueden ampliar y modificar componentes específicos de la aplicación sin que esto afecte al resto del sistema.
 Proceso de desarrollo más simple: las operaciones CRUD permiten prácticas más efectivas y coherentes, lo que hace que el procedimiento de creación de aplicaciones sea mucho más rápido y fluido.
+
 **Compatibilidad con múltiples tecnologías:** las operaciones CRUD se pueden aplicar a una variedad de tecnologías y bases de datos relacionales, incluidas GraphQL, API RESTful y NoSQL.
+
 **Escalabilidad:** las aplicaciones se pueden escalar más fácilmente para adaptarse a las necesidades y datos del usuario.
 
 ## Desventajas de CRUD
