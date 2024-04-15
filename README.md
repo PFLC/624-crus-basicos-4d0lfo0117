@@ -25,10 +25,15 @@ Proceso de desarrollo más simple: las operaciones CRUD permiten prácticas más
 ## Desventajas de CRUD
 
 -Si las necesidades cambian, puede ser complicado modificar el modelo.
+
 -Si el modelo no es bueno, la aplicación que use la base de datos podrá ser inconsistente, lo que puede llevar a errores.
+
 -Igualmente si el modelo no es bueno, puede no respetarse la atomicidad y existir información duplicada, lo que también lleva a errores.
+
 -Hacer un buen modelo requiere mucho tiempo a comparación de una base de datos noSQL.
+
 -En general no es flexible, pues usa formas ya definidas, como tipos de información.
+
 -Tiene tipos de datos limitados. En una base de datos noSQL no existen limitaciones, puedes almacenar información estructurada y no estructurada.
 
 ## Tecnologías Utilizadas
