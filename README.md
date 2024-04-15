@@ -1,7 +1,26 @@
+![image](https://github.com/PFLC/624-crus-basicos-4d0lfo0117/assets/113808375/0a141a22-0e5c-4550-b3d5-c4659af3bd27)
 
 # Aplicación CRUD de PHP
 
-Este repositorio contiene una aplicación PHP CRUD (Create, Read, Update, Delete) simple. Es una demostración básica de cómo integrar PHP con una base de datos MySQL para gestionar datos de usuarios. La aplicación permite a los usuarios agregar, ver, editar y eliminar información de usuario.
+Este repositorio contiene una aplicación PHP CRUD Create (Crear registros),Read bzw. Retrieve (Leer registros),Update (Actualizar registros),Delete bzw. Destroy (Borrar registros) simple. 
+
+Y este resume las funciones requeridas por un usuario para crear y gestionar datos. Varios procesos de gestión de datos están basados en CRUD, en los que dichas operaciones están específicamente adaptadas a los requisitos del sistema y de usuario, ya sea para la gestión de bases de datos o para el uso de aplicaciones.
+
+![image](https://github.com/PFLC/624-crus-basicos-4d0lfo0117/assets/113808375/9bac77b8-84ba-4944-9951-123356b85738)
+
+Los frameworks CRUD facilitan el acceso al sistema de bases de datos y son utilizados tanto en el desarrollo como en el uso de aplicaciones. Existen numerosos frameworks con un concepto CRUD basados en diferentes lenguajes y plataformas.
+
+![image](https://github.com/PFLC/624-crus-basicos-4d0lfo0117/assets/113808375/82c38236-eaf2-4d0f-be75-6706703117dc)
+
+## Ventajas de CRUD
+
+**Estandarización:** las operaciones CRUD interactúan con las aplicaciones de almacenamiento de datos en un solo espacio. De esta manera, la tarea de los desarrolladores se reduce significativamente.
+**Experiencia de usuario mejorada:** los usuarios pueden crear, actualizar, leer y borrar datos de una aplicación sin problemas, lo que hace que la experiencia de usuario sea mucho más fácil de entender y satisfactoria.
+**Facilidad de mantenimiento:** dado que la gestión de datos tiene protocolos bien establecidos, los sistemas CRUD no requieren un mantenimiento tan complicado. Es mucho más sencillo resolver problemas y actualizar la aplicación con esto.
+La flexibilidad significa que los desarrolladores pueden ampliar y modificar componentes específicos de la aplicación sin que esto afecte al resto del sistema.
+Proceso de desarrollo más simple: las operaciones CRUD permiten prácticas más efectivas y coherentes, lo que hace que el procedimiento de creación de aplicaciones sea mucho más rápido y fluido.
+**Compatibilidad con múltiples tecnologías:** las operaciones CRUD se pueden aplicar a una variedad de tecnologías y bases de datos relacionales, incluidas GraphQL, API RESTful y NoSQL.
+**Escalabilidad:** las aplicaciones se pueden escalar más fácilmente para adaptarse a las necesidades y datos del usuario.
 
 ## Tecnologías Utilizadas
 
@@ -61,7 +80,4 @@ Este repositorio contiene una aplicación PHP CRUD (Create, Read, Update, Delete
 
 Esta aplicación es una demostración básica y no implementa medidas avanzadas de seguridad. Es recomendable utilizar declaraciones preparadas (prepared statements) u ORM para las interacciones con la base de datos para prevenir ataques de inyección SQL.
 
----
-
-Siéntete libre de contribuir a este proyecto o sugerir mejoras. Para cualquier consulta o problema, por favor abre un issue en este repositorio.
 
